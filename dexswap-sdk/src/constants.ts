@@ -18,6 +18,8 @@ import {
 // exports for external consumption
 export type BigintIsh = JSBI | bigint | string
 
+
+
 export enum ChainId {
   MAINNET = 1,
   RINKEBY = 4,
